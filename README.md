@@ -13,11 +13,7 @@ Requires [Steamodded](https://github.com/Steamodded/smods) and [Malverk](https:/
 
  1. Install [Steamodded](https://github.com/Steamodded/smods)
  2. Install [Malverk](https://github.com/Eremel/Malverk)
- 3. Download the source code of this repository
-
-![firefox_0BYrTJUx55](https://github.com/user-attachments/assets/849d44fc-367f-428f-9ee4-452262d91c8e)
-
- 
- 4. Extract the .zip file to your Balatro Mods folder
+ 3. Download the latest version from Releases
+ 4. Extract the .zip file into your Balatro Mods folder
  5. Enable the texture pack in Malverk
 
